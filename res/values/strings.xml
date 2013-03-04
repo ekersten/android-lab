@@ -5,4 +5,8 @@
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
 
+    <!-- CUSTOM STRINGS -->
+    <string name="main_list_title">Available Samples</string>
+    <string name="title_activity_json">JSON Sample</string>
+
 </resources>
